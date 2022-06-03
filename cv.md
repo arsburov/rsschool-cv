@@ -21,9 +21,9 @@
 1. ### Work experience:
 	I have no commercial experience, but i have some study-projects in my [github repository](https://github.com/arsburov).
 1. ### Education:
-	MSU: 2006-2011
-	GeekBrains Java: 2021-...
-	School21: oct 2020-...
+	* MSU: 2006-2011
+	* GeekBrains Java: 2021-...
+	* School21: oct 2020-...
 1. ### Languages:
-	Russian - native
-	English - pre-intermediate
+	* Russian - native
+	* English - pre-intermediate
