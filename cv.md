@@ -12,3 +12,9 @@
 	1. JS
 	1. HTML / CSS
 	1. Git
+1. ### My CodeWars:
+	```javascript
+	function numberToString(num) {
+  		return (String(num));
+	}
+	```
