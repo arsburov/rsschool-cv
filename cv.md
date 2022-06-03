@@ -25,5 +25,5 @@
 	* GeekBrains Java: 2021-...
 	* School21: oct 2020-...
 1. ### Languages:
-	* Russian - native
-	* English - pre-intermediate
+	* Russian: native
+	* English: pre-intermediate
