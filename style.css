@@ -1,1 +1,18 @@
-this is css document
+.centered-content {
+    width: 1440px;
+    text-align: center;
+    margin: auto;
+}
+.two-sides{
+    display: flex;
+}
+.left-side {
+    width: 36%;
+    border: 1px solid black ;
+    background: #202026;
+}
+.right-side {
+    width: 64%;
+    border: 1px solid black ;
+    background: white;
+}
